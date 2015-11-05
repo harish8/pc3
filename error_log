@@ -1,0 +1,36 @@
+[10-Apr-2015 04:16:24 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hariwvga/public_html/pc3/index.php on line 17
+[10-Apr-2015 04:16:28 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hariwvga/public_html/pc3/index.php on line 17
+[10-Apr-2015 04:17:38 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hariwvga/public_html/pc3/index.php on line 17
+[10-Apr-2015 04:21:43 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hariwvga/public_html/pc3/index.php on line 17
+[10-Apr-2015 04:23:35 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hariwvga/public_html/pc3/index.php on line 17
+[10-Apr-2015 04:26:20 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/hariwvga/public_html/pc3/index.php on line 17
+[11-Apr-2015 23:47:04 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 19
+[12-Apr-2015 04:18:15 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 19
+[12-Apr-2015 04:46:44 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 33
+[12-Apr-2015 05:00:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hariwvga/public_html/pc3/listitems.php:12) in /home/hariwvga/public_html/pc3/listitems.php on line 15
+[12-Apr-2015 05:01:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hariwvga/public_html/pc3/listitems.php:12) in /home/hariwvga/public_html/pc3/listitems.php on line 15
+[12-Apr-2015 05:01:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hariwvga/public_html/pc3/listitems.php:12) in /home/hariwvga/public_html/pc3/listitems.php on line 15
+[12-Apr-2015 05:02:02 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 36
+[12-Apr-2015 05:08:38 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 36
+[12-Apr-2015 05:10:02 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 36
+[12-Apr-2015 05:26:28 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 36
+[13-Apr-2015 16:50:23 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 36
+[13-May-2015 02:01:51 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 36
+[13-May-2015 02:35:04 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 42
+[13-May-2015 02:36:08 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 42
+[13-May-2015 02:47:11 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 43
+[13-May-2015 02:50:38 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/hariwvga/public_html/pc3/listitems.php on line 133
+[13-May-2015 02:52:07 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 43
+[13-May-2015 02:59:27 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 45
+[18-May-2015 21:58:52 America/New_York] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/hariwvga/public_html/pc3/listitems.php on line 23
+[18-May-2015 21:59:52 America/New_York] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/hariwvga/public_html/pc3/listitems.php on line 23
+[18-May-2015 22:00:44 America/New_York] PHP Parse error:  syntax error, unexpected '(' in /home/hariwvga/public_html/pc3/listitems.php on line 23
+[18-May-2015 22:03:04 America/New_York] PHP Parse error:  syntax error, unexpected '(' in /home/hariwvga/public_html/pc3/listitems.php on line 23
+[18-May-2015 22:03:08 America/New_York] PHP Parse error:  syntax error, unexpected '(' in /home/hariwvga/public_html/pc3/listitems.php on line 23
+[18-May-2015 22:04:56 America/New_York] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/hariwvga/public_html/pc3/listitems.php on line 25
+[18-May-2015 22:07:37 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 50
+[18-May-2015 22:09:06 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 50
+[18-May-2015 22:09:32 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 50
+[18-May-2015 22:11:41 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 50
+[18-May-2015 22:16:44 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 50
+[30-Jun-2015 16:48:56 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/hariwvga/public_html/pc3/listitems.php on line 50
