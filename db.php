@@ -1,6 +1,6 @@
 <?php
 try {
-$dbc = new PDO('mysql:host=localhost; dbname=hariwvga_pc3', 'hariwvga_pc3', 'passwordpc3');
+$dbc = new PDO('mysql:host=localhost; dbname=yourdbname', 'username', 'password');
 } catch (PDOException $e) {
 	echo "Error: " . $e->getMessage();
 }
